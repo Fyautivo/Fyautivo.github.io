@@ -25,12 +25,13 @@ Tabla de mis actividades que Realizo:
 
 
 Comidas Favoritas?
+Arroz con Camarones
 
 ![Crepe](https://www.laylita.com/recetas/wp-content/uploads/chaulafan-de-pollo.jpg)
 
-It can also be centered!
+Ornado!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe](https://tourdelviajero.com/wp-content/uploads/resultado-de-imagen-de-hornadoecuador-500x330.jpeg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
