@@ -24,9 +24,9 @@ Tabla de mis actividades que Realizo:
 | Juegos Online | 2 hora | Aveces |
 
 
-How about a yummy crepe?
+Comidas Favoritas?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](https://www.laylita.com/recetas/wp-content/uploads/chaulafan-de-pollo.jpg)
 
 It can also be centered!
 
