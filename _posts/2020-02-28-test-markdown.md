@@ -1,27 +1,27 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Actividades
+subtitle: Pasatiempo Favorito
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+En esta sección le voy a contar cada una de mis actividades favoritas que me gusta realizar en mis tiempos libres, mis hobbies un poco mi vida personal, comida favorita, deporte me gusta
 
-**Here is some bold text**
+**Mis actividades**
 
-## Here is a secondary heading
+## Actividades y comidas favoritas y musica
 
-Here's a useless table:
+Tabla de mis actividades que Realizo:
 
-| Number | Next number | Previous number |
+| Actividades | Horas | Dias |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Escuchar Musica | 8 horas | Todos lo días |
+| Ver televisión | 2 horas | Aveces |
+| Jugar Fútbol| 2 horas | Fines de Semana |
+| Juegos Online | 2 hora | Aveces |
 
 
 How about a yummy crepe?
